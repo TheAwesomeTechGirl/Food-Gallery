@@ -1,0 +1,14 @@
+.imagename {
+    font-size: medium;
+    font-weight: bold;
+    color: blue;
+    text-align: center;
+}
+
+#topic {
+    font-size: larger;
+    font-weight: bolder;
+    text-align: center;
+    color: cornflowerblue;
+    margin-top: 20px;
+}
